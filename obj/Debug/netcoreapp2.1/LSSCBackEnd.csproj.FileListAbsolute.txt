@@ -1,0 +1,46 @@
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\bin\Debug\netcoreapp2.1\LSSCBackEnd.deps.json
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\bin\Debug\netcoreapp2.1\LSSCBackEnd.runtimeconfig.json
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\bin\Debug\netcoreapp2.1\LSSCBackEnd.runtimeconfig.dev.json
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\bin\Debug\netcoreapp2.1\LSSCBackEnd.dll
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\bin\Debug\netcoreapp2.1\LSSCBackEnd.pdb
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\obj\Debug\netcoreapp2.1\LSSCBackEnd.csprojAssemblyReference.cache
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\obj\Debug\netcoreapp2.1\LSSCBackEnd.csproj.CoreCompileInputs.cache
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\obj\Debug\netcoreapp2.1\LSSCBackEnd.RazorAssemblyInfo.cache
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\obj\Debug\netcoreapp2.1\LSSCBackEnd.RazorAssemblyInfo.cs
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\obj\Debug\netcoreapp2.1\LSSCBackEnd.AssemblyInfoInputs.cache
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\obj\Debug\netcoreapp2.1\LSSCBackEnd.AssemblyInfo.cs
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\obj\Debug\netcoreapp2.1\LSSCBackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\obj\Debug\netcoreapp2.1\LSSCBackEnd.dll
+C:\Users\Buvana\Documents\LSSC\LSSCBackEnd\LSSCBackEnd\obj\Debug\netcoreapp2.1\LSSCBackEnd.pdb
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\bin\Debug\netcoreapp2.1\LSSCBackEnd.deps.json
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\bin\Debug\netcoreapp2.1\LSSCBackEnd.runtimeconfig.json
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\bin\Debug\netcoreapp2.1\LSSCBackEnd.runtimeconfig.dev.json
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\bin\Debug\netcoreapp2.1\LSSCBackEnd.dll
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\bin\Debug\netcoreapp2.1\LSSCBackEnd.pdb
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.csprojAssemblyReference.cache
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.RazorAssemblyInfo.cache
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.RazorAssemblyInfo.cs
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.AssemblyInfoInputs.cache
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.AssemblyInfo.cs
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.dll
+C:\Users\Pranjal\Documents\Projects\LSSC\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.pdb
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\bin\Debug\netcoreapp2.1\LSSCBackEnd.deps.json
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\bin\Debug\netcoreapp2.1\LSSCBackEnd.runtimeconfig.json
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\bin\Debug\netcoreapp2.1\LSSCBackEnd.runtimeconfig.dev.json
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\bin\Debug\netcoreapp2.1\LSSCBackEnd.dll
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\bin\Debug\netcoreapp2.1\LSSCBackEnd.pdb
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.csprojAssemblyReference.cache
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.RazorAssemblyInfo.cache
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.RazorAssemblyInfo.cs
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.AssemblyInfoInputs.cache
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.AssemblyInfo.cs
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.dll
+C:\Users\Pranjal\Documents\Last Update\Back(12Feb)\obj\Debug\netcoreapp2.1\LSSCBackEnd.pdb
